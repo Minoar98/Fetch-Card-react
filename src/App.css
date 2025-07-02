@@ -1,0 +1,76 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  background-color: #f0f4f519;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+}
+
+/* Main container */
+/* .container {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 50px;
+  border-radius: 20px;
+  width: 100%;
+  max-width: 1200px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+} */
+
+/* Users Grid */
+/* .users-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 32px;
+} */
+
+/* User Card */
+/* .user-card {
+  background: #f9fafb;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+  border-radius: 20px;
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.user-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+} */
+
+/* Photo */
+/* .photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  border: 2px solid #ff1493;
+} */
+
+/* Info */
+.info p {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* Responsive Design */
+/* @media (max-width: 768px) {
+  .users-grid {
+    grid-template-columns: 1fr; 
+  }
+} */

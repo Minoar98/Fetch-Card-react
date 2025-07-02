@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* components */
+
+@layer components {
+  .container {
+    @apply mx-auto bg-white border border-gray-300 p-12 rounded-2xl w-full max-w-[1200px] shadow-lg overflow-hidden dark:bg-gray-900 dark:border-gray-700 dark:text-white;
+  }
+}

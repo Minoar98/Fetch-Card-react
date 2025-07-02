@@ -1,0 +1,47 @@
+const players = [
+  {
+    id: 1,
+    name: "Lionel Messi",
+    username: "Lionel Messi",
+    company: "LM10",
+    email: "messi@example.com",
+    address: "123 Main St",
+    phone: 123 - 456 - 7890,
+    website: "lionelmessi.com",
+    isFavorite: true,
+  },
+  {
+    id: 2,
+    name: " Cristiano Ronaldo",
+    username: " cristianoronaldo",
+    company: "CR&",
+    email: "cr7@example.com",
+    address: "456 Park Avet",
+    phone: 123 - 456 - 7890,
+    website: "cr7.com",
+    isFavorite: false,
+  },
+  {
+    id: 3,
+    name: "Neymar Junior",
+    username: "naymerjr",
+    company: "MNS",
+    email: "naymerjr@example.com",
+    address: "123 Main St",
+    phone: 987 - 654 - 3210,
+    website: "naymerjr.com",
+    isFavorite: true,
+  },
+  {
+    id: 4,
+    name: "Robert Lewandowski",
+    username: "robert-lewandowski",
+    company: "LEWA9",
+    email: "lewa@example.com",
+    address: "456 Park Avet",
+    website: " robert-lewandowski.com",
+    isFavorite: false,
+  },
+];
+
+export default players;

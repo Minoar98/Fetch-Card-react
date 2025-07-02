@@ -1,0 +1,25 @@
+/* Button Group Layout */
+/* .button-group {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 32px;
+} */
+
+/* Default Button Style */
+/* .btn {
+  padding: 12px 24px;
+  min-width: 120px;
+  background: #ff1493; 
+  color: white;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.3s, border 0.3s;
+} */
+
+/* Hover Effect (same for both) */
+/* .btn:hover {
+  background: #ff69b4;
+  border-color: #ff1493;
+} */
